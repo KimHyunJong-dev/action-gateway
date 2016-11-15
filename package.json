@@ -1,7 +1,7 @@
 {
-  "author"      : "YOU <YOU@example.com>",
-  "name"        : "my_actionhero_project",
-  "description" : "my actionhero project",
+  "author"      : "pegasuskim<pegasuskim@gmail.com>",
+  "name"        : "action-gateway-project",
+  "description" : "action-gateway-project",
   "version"     : "0.0.1",
   "engines"     : {
     "node": ">=4.0.0"
