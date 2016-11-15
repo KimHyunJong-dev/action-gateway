@@ -1,0 +1,12 @@
+{"level":"notice","message":"*** Starting ActionHero ***","timestamp":"actionhero-worker-7 @ 2016-11-15T03:35:11.863Z"}
+{"level":"info","message":"--------------------------------------","timestamp":"actionhero-worker-7 @ 2016-11-15T03:35:11.955Z"}
+{"level":"info","message":"ACTIONHERO COMMAND >> start","timestamp":"actionhero-worker-7 @ 2016-11-15T03:35:11.955Z"}
+{"level":"info","message":"--------------------------------------","timestamp":"actionhero-worker-7 @ 2016-11-15T03:35:11.955Z"}
+{"level":"notice","message":"pid: 5122","timestamp":"actionhero-worker-7 @ 2016-11-15T03:35:11.957Z"}
+{"level":"notice","message":"server ID: actionhero-worker-7","timestamp":"actionhero-worker-7 @ 2016-11-15T03:35:11.958Z"}
+{"level":"info","message":"actionhero member actionhero-worker-7 has joined the cluster","timestamp":"actionhero-worker-7 @ 2016-11-15T03:35:11.964Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"actionhero-worker-7 @ 2016-11-15T03:35:11.972Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"actionhero-worker-7 @ 2016-11-15T03:35:11.982Z"}
+{"level":"notice","message":"environment: development","timestamp":"actionhero-worker-7 @ 2016-11-15T03:35:12.500Z"}
+{"level":"alert","message":"*** ActionHero Started ***","timestamp":"actionhero-worker-7 @ 2016-11-15T03:35:12.500Z"}
+{"level":"notice","message":"Shutting down open servers and stopping task processing...","timestamp":"actionhero-worker-7 @ 2016-11-15T03:35:15.911Z"}
